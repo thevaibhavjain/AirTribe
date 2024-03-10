@@ -161,7 +161,7 @@ This project is a Node.js application for managing courses, instructors, leads, 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/VIVEKJHA7777/airtribe.git
+    git clone https://github.com/thevaibhavjain/AirTribe.git
     ```
 
 2. Navigate to the project directory:
