@@ -1,2 +1,0 @@
-# AirTribe
-Internship Assignment - Backend
